@@ -1,0 +1,18 @@
+name: example
+description: An example app demonstrating the use of custom_text_field.
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  custom_text_field:
+    path: ../ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
