@@ -4,9 +4,9 @@ A Flutter text field with a unique inset shadow effect and full support for Text
 
 
 <p align="left">
-  <img src="images/enabled.png" alt="Enabled State" width="200"/>
-  <img src="images/focused.png" alt="Focused State" width="200"/>
-  <img src="images/validated.png" alt="Validated State" width="200"/>
+  <img src="https://github.com/HMZKA/inset_field_shadow/blob/main/images/enabled.png?raw=true" alt="Enabled State" width="200"/>
+  <img src="https://github.com/HMZKA/inset_field_shadow/blob/main/images/focused.png?raw=true" alt="Focused State" width="200"/>
+  <img src="https://github.com/HMZKA/inset_field_shadow/blob/main/images/validated.png?raw=true" alt="Validated State" width="200"/>
 </p>
 
 ## Features:
